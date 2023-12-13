@@ -1,0 +1,3 @@
+interface IMagician {
+    cape:string
+}
