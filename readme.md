@@ -11,5 +11,3 @@ Para entender SOLID vamos a construir 1 aplicación extremademente breve. En est
 - Mañana Jueves presentamos los proyectos.
 
 :muscle: **Be solid my friend!!!**
-
-
